@@ -22,7 +22,7 @@ function Profile() {
           <input type="text" placeholder='Name' className='form-control mb-2' />
           <input type="text" placeholder='Github' className='form-control mb-2' />
           <input type="text" placeholder='Live Link' className='form-control mb-2' />
-          <button style={{backgroundColor:'#2AA198'}} onClick={updateUser} className='btn btn-success m-3'>Update</button>
+          <button style={{backgroundColor:'#2AA198'}} onClick={updateUser} className='btn text-light m-3'>Update</button>
         </div>
 
       </div>
